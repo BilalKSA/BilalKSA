@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BilalKSA
-- 👀 I’m interested in Game Development & Networking
-- 🌱 I’m currently learning ... C# & Unity
+- 👀 I’m interested in Web Development & Networking
+- 🌱 I’m currently learning ... Js & DiscordAPI's
 
 <!---
 BilalKSA/BilalKSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
